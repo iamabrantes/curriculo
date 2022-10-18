@@ -1,7 +1,7 @@
 # Resume
-Jonathan's resume in english
+Jonathan Curriculo
 
-How to create image on Docker
+Como buildar a imagem no docker
 
 #docker build . -t resume
 
